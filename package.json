@@ -1,0 +1,31 @@
+{
+    "name": "angularjs-1-5--typescript-snippets",
+    "displayName": "AngularJS 1.5+ TypeScript Snippets",
+    "description": "AngularJS 1.5+ TypeScript Snippets",
+    "version": "0.0.1",
+    "publisher": "jimmychandra",
+    "keywords": [
+        "TypeScript",
+        "AngularJS",
+        "Angular"
+    ],
+    "icon": "images/angular-shield.png",
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescript",
+                "path": "./snippets/typescript.json"
+            }
+        ]
+    }
+}
