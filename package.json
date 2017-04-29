@@ -9,6 +9,10 @@
         "AngularJS",
         "Angular"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jchandra74/angularjs1.5-typescript-vscode-extension"
+    },
     "icon": "images/angular-shield.png",
     "galleryBanner": {
         "color": "#0273D4",
