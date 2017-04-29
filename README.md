@@ -19,3 +19,7 @@ Users appreciate release notes as you update your extension.
 ### 0.0.1
 
 Initial release of this VS Code Extension which supports creation of angular module, component and services.
+
+### 0.0.2
+
+Nothing changes but package.json

@@ -1,7 +1,9 @@
 # Change Log
-All notable changes to the "angularjs-1-5--typescript-snippets" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.0.1
+- Initial release.
+- Added support for creating AngularJS module, component and service.
 
-## [Unreleased]
-- Initial release
+## 0.0.2
+- Nothing changes functionality-wise
+- Added github repository information to package.json
